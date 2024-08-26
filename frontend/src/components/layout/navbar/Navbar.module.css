@@ -1,0 +1,12 @@
+.mainContainer {
+    width: 100%;
+    background-color: blueviolet;
+    height: 50px;
+  }
+
+  .rightContainer{
+    display: flex;
+    justify-content: end;
+    padding-top: 16px;
+    margin-right: 16px;
+}
